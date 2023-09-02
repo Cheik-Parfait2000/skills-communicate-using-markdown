@@ -22,3 +22,9 @@ console.log(message);
 message = "Hello, world!"
 print(message)
 ```
+
+# Adding a task list
+A task list is very important to show which tasks are complete (checked) or not. A task list starts with the syntax - [ ] and then the task list item. The formatting is specific!
+- [x] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world.
